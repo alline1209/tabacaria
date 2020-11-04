@@ -1,6 +1,6 @@
 /* 
     Arquivo: cadastro.c
-    Autor: Alline e Matheus
+    Autor: Alline e Mateus
     Contém as funções utilizadas nas rotinas de cadastro da tabacaria
  */
 
